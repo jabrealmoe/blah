@@ -33,6 +33,7 @@ def get_user_choice(choice):
     return choice
 
 
+# Main method
 def main():
     user_choice = ''
     while user_choice != 'q':
